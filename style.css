@@ -45,3 +45,60 @@ body{
     padding-top: 150px;
    
 }
+
+.banner-two-conten h2{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.tick{
+    color: rgb(20, 202, 20);
+}
+
+.my-plan-sec h1{
+    text-align: center;  
+    margin-bottom: 50px;
+}
+
+.all-icons{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-bottom: 50px;
+   
+}
+
+
+.footer-image{
+    
+    
+    width: 50%;
+    position: absolute;
+    margin-left: 100px;
+    
+}
+
+.footer-content{
+    position: relative;
+    top: 50px;
+    margin-left: 150px;
+}
+.footer-content h2{
+ 
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+   
+  
+}
+
+.call-now-btn{
+    background-color: orangered;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 15px;
+    padding: 20px;
+}
