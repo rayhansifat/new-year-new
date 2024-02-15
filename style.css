@@ -1,0 +1,47 @@
+/* Common shared styles  */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans' sans-serif;
+}
+/* heading banner */
+.banner{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+
+.banner-img{
+    width: 50%;
+    height: 10%;
+    margin-bottom: 50px;
+}
+
+.banner-content{
+    margin-top: 130px;
+    padding-top: 130px;
+    text-align: center;
+}
+
+.banner-content-caption{
+    font-size: 50px;
+}
+
+.btn{
+    background-color: orangered;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+    padding: 20px;
+
+}
+
+/* Main banner */
+
+.banner-two-conten{
+    margin-top: 150px;
+    padding-top: 150px;
+   
+}
